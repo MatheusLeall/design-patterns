@@ -282,3 +282,6 @@ modules.xml
 test-*xml
 
 .scannerwork
+
+#sqlite3
+*.sqlite3
